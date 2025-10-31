@@ -1,0 +1,15 @@
+<form
+  action="https://formspree.io/f/xzzkjngo"
+  method="POST"
+>
+  <label>
+    Your email:scott_johnson@live.co.uk
+    <input type="email" name="email">
+  </label>
+  <label>
+    Your message:welcome
+    <textarea name="message"></textarea>
+  </label>
+  <!-- your other form fields go here -->
+  <button type="submit">Send</button>
+</form>
