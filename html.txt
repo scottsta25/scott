@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>JWSJ MEDIA</title>
+</head>
+<body>
+ <h1>JWSJ MEDIA PLAYGROUND</h1> 
+ <a> lets have fun</a>
+</body>
+</html>
