@@ -8,9 +8,8 @@
    a {
     color: rgb(148, 5, 124);
     font-family: 'Arial', sans-serif;
-    font-size: 60px;
+    font-size: 40px;
   }
-
      h2 {
   text-align: center;
 }
@@ -47,14 +46,13 @@
   display: block;
   margin: 0 auto;
 }
-
         img {
-  width: 400px;
-  height: 400px;
-  border-radius: 40%;
+  width: 600px;
+  height: 300px;
+  border-radius: 1000%;
   object-fit: cover;
   display: block;
-  margin: 80px auto;
+  margin: 50px auto;
 }
 
 body {
