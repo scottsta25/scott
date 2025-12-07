@@ -11,7 +11,7 @@
     font-size: 40px;
   }
      h2 {
-  text-align: center;
+  text-align: left;
 }
      h2 
         img {
@@ -21,7 +21,7 @@
   margin-right: auto;
 }
        h3 {
-    text-align: center;
+    text-align: right;
 }
        h3      
         img {
@@ -31,7 +31,7 @@
   margin-left: auto;
 }
          h4 {
-    text-align: center;
+    text-align: left;
   }
          h4   
         img {
@@ -41,7 +41,7 @@
   margin-right: auto;
 }
           h5 {
-    text-align: center;
+    text-align: right;
   }
           h5   
         img {
@@ -51,7 +51,7 @@
   margin-left: auto;
 }
             h6 {
-    text-align: center;
+    text-align: left;
   }
             h6 
         img {
