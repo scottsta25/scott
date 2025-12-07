@@ -37,10 +37,19 @@
   display: block;
   margin: 0 auto;
 }
-           h5 {
+          h5 {
     text-align: center;
   }
-           h5 
+          h5   
+        img {
+  border-radius: 100px;
+  display: block;
+  margin: 0 auto;
+}
+            h6 {
+    text-align: center;
+  }
+            h6 
         img {
   border-radius: 100px;
   display: block;
@@ -49,7 +58,7 @@
         img {
   width: 600px;
   height: 300px;
-  border-radius: 1000%;
+  border-radius: 100%;
   object-fit: cover;
   display: block;
   margin: 50px auto;
